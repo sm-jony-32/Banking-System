@@ -1,0 +1,53 @@
+body{
+    padding: 100px;
+}
+
+.wlc-msg{
+    font-weight: 700;
+}
+
+.submit-area{
+    border-radius: 10px;
+    padding: 50px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#transection-area{
+    display: none;
+}
+
+.status{
+    margin:0 20px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.deposit{
+    background-color: slateblue;
+}
+
+.withdraw{
+    background-color: tomato;
+}
+
+.blance{
+    background-color: orange;
+}
+
+.btn-deposit{
+    background-color: slateblue;
+    color: white;
+}
+
+.btn-withdraw{
+    background-color: tomato;
+    color: white;
+}
+.deposit-txt{
+      color:slateblue;
+}
+
+.withdraw-txt{
+    color: tomato;
+}
